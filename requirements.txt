@@ -3,6 +3,7 @@
 pyrogram
 TgCrypto
 pyromod
+gunicorn
 # --- For-Database ------------ #
 pymongo
 motor
